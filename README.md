@@ -71,15 +71,4 @@
 		  --|sha1.hpp sha1操作类
 		  --|xml2json.h xml格式和json格式互相转换的类
 
-
-## 项目地址 ##
-- GitHub： https://github.com/macwe/thefoxframework
-
-- Git@OSC: http://git.oschina.net/macwe/thefoxframework
-
-## 联系我 ##
-欢迎提意见，大家一起交流
-
-交流QQ群: 303435748
-
-E-mail: macwe1024@gmail.com
+E-mail: elemeta@foxmail.com
